@@ -68,8 +68,8 @@ The metric values are calculated when the notebook runs; they are not fixed in t
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-repository>.git
-cd <your-repository>
+git clone https://github.com/rudy0senpai/Student-Performance-Prediction-System.git
+cd Student-Performance-Prediction-System
 ```
 
 Replace the URL and folder name with your GitHub repository details.
